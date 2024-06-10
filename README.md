@@ -1,5 +1,9 @@
 # UAS_LABAlPro3
 
+Anggota Kelompok : 
+- Parulian Dwi Reslia Simbolon (231401032)
+- Desi Maria Elita Silalahi (231401044)
+
 link gdrive: https://drive.google.com/drive/folders/1ilK1oXU8SwGldz57p9hfZD5M7Fbw3m9-?usp=sharing
 
 Screenshoot dari output:
