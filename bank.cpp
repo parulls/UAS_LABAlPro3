@@ -276,7 +276,6 @@ void bank::transfer() {
 void bank::pembayaran() {
     system("cls");
     hal_pembayaran q;
-    string pin;
     cout << "\t\t\tMenu Pembayaran";
     cout << "\n\nKeterangan\t\t\t\t : ";
     cin.ignore();
